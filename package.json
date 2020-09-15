@@ -53,14 +53,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/seek-oss/playroom.git"
+    "url": "https://github.com/Trampoline-CX/playroom.git"
   },
   "author": "SEEK",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/seek-oss/playroom/issues"
-  },
-  "homepage": "https://github.com/seek-oss/playroom#readme",
+  "homepage": "https://github.com/Trampoline-CX/playroom#readme",
   "dependencies": {
     "@babel/cli": "^7.8.3",
     "@babel/core": "^7.8.3",
